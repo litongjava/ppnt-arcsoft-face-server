@@ -1,0 +1,1 @@
+mvn clean pre-integration-test -DskipTests
