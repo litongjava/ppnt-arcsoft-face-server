@@ -3,7 +3,8 @@
 
 ### 快速入门
 #### 安装
-前往release下载文件
+前往release下载文件  
+[https://gitee.com/ppnt/ppnt-arcsoft-face-server/releases/](https://gitee.com/ppnt/ppnt-arcsoft-face-server/releases/)  
 解压文件  
 启动项目  
 windows
