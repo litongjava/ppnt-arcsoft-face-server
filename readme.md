@@ -3,7 +3,7 @@
 
 ### 快速入门
 #### 安装
-前往release下载tar.gz文件夹  
+前往release下载文件
 解压文件  
 启动项目  
 windows
